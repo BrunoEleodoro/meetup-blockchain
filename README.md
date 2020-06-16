@@ -3,7 +3,7 @@ Meetup Ethereum Developers
 </h2>
 
 <p align="center"> 
-<img src="Screen%20Shot%202020-06-15%20at%2021.21.59.png" width="300" heigth="300">
+<img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="200" heigth="100">
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@ Meetup Ethereum Developers
 
 <h3 align="center">  
   <a href="#information_source-sobre">Sobre</a> |
-  <a href="#interrobang-motivo">Motivo</a> | 
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> | 
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> |
+    <a href="Flutter Web3.pdf">Slides </a>|
   <a href="#link-como-contribuir">Como Contribuir</a> | 
   <a href="#licença">Licença</a> 
 </h3>
@@ -27,6 +27,7 @@ Meetup Ethereum Developers
 O aplicativo foi desenvolvido em flutter utilizando Web3dart para realizar a conexão com o smart contract.
 
 Nesse exemplo, fizemos o deploy do contrato "Storage" padrao do remix, e depois linkamos ele no projeto em flutter, utilizando a ethereum_utils.dart
+
 
 ## :rocket: Tecnologias Utilizadas
 
